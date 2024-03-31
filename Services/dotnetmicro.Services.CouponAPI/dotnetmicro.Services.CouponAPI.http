@@ -1,0 +1,6 @@
+@dotnetmicro.Services.CouponAPI_HostAddress = http://localhost:5153
+
+GET {{dotnetmicro.Services.CouponAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
